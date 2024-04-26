@@ -1,0 +1,1 @@
+This Jupyter Notebook provides a demonstration of building and evaluating a Random Forest Classifier model using Python's scikit-learn library. Random Forest is an ensemble learning method that combines multiple decision trees to improve predictive accuracy and control overfitting.
